@@ -3,7 +3,7 @@
 <div>
   <p>Atualmente, estou aprendendo e aprimorando minhas habilidades em HTML5, CSS3 e JAVASCRIPT.
     
-  Meu foco está em Desenvolvimento web e Backend, e estou sempre buscando novos desafios e oportunidades para crescer na área.
+  Meu foco está em Desenvolvimento web, e estou sempre buscando novos desafios e oportunidades para crescer na área.
 
   Estou aberto a colaborações e projetos ! 👨‍💻</p>
 </div>
